@@ -8,6 +8,7 @@ packages:
   gitUsername: karthikbm
   gitBranch: main
 - name: WmSalesforceProvider
+  version: 10.7.0.0.53
 services:
 - serviceName: project.man_kmat_extproj_feb18.WmSalesforceProvider.com_softwareag_cloudstreams_salesforce_v53.connections:Feb18_ExtGIT_SF_Basic_ConnA
   packages:
